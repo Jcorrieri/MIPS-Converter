@@ -8,9 +8,42 @@ The input file should be a plain text file (.txt) containing MIPS assembly instr
 
 ![Supported format and instructions](/supported-format-instructions.png?raw=true "Optional Title")
 
+Example MIPS input file:
+```
+add $s1, $t2, $t8
+andi $s2, $v1, 8
+lb $t5, 3($a0)
+mult $s2, $a3
+mflo $t6
+sb $zero, 16($t2)
+xor $t0, $s2, $t9
+```
+
+Example binary input file:
+```
+00000001010110001000100000100000
+00110000011100100000000000001000
+10000000100011010000000000000011
+00000010010001110000000000011000
+00000000000000000111000000010010
+10100001010000000000000000010000
+00000010010110010100000000100110
+```
+
+Example hex input file:
+```
+0x01588820
+0x30720008
+0x808D0003
+0x02470018
+0x00007012
+0xA1400010
+0x02594026
+```
+
 ## Installation
 
-Currently, there is no way to install the project.
+Currently, you can find the .jar file of the application in /MIPS-Converter/out/artifacts/MIPS-Converter.jar
 
 ## Usage
 
