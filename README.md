@@ -1,4 +1,4 @@
-# Mips-Converter
+# MIPS Converter
 
 My first Java project. This is based on an in-class assignment in which we were asked to convert MIPS assembly instructions to hex code by hand. It is designed to take text files containing Mips instructions, binary code, or hex code and convert the contents to the corresponding output. 
 
