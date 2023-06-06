@@ -6,7 +6,7 @@ My first Java project. This is based on an in-class assignment in which we were 
 
 The input file should be a plain text file (.txt) containing MIPS assembly instructions, binary instructions, or hex instructions. The following screenshot shows the supported line format as well as all currently supported MIPS instructions:
 
-![Supported format and instructions](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Supported format and instructions](/supported-format-instructions.png?raw=true "Optional Title")
 
 ## Installation
 
