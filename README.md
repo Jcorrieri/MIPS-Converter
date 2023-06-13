@@ -43,7 +43,7 @@ Example hex input file:
 
 ## Installation
 
-Currently, you can find the .jar file of the application in /MIPS-Converter/out/artifacts/MIPS-Converter.jar
+Currently, you can find the .jar file of the application in the MIPS-Converter directory.
 
 ## Usage
 
