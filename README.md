@@ -51,7 +51,7 @@ This program can perform three main tasks: Convert MIPS instructions to hexadeci
 
 ## Additional Info
 
-For the purposes of this project, I have coded the algorithms for converting decimal, binary, and hexadecimal values myself. This process also utilizes the FlatLaf library. 
+For the purposes of this project, I have coded the algorithms for converting decimal, binary, and hexadecimal values myself. This project also utilizes the FlatLaf library. 
 
 ## Contributing
 
