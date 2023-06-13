@@ -55,4 +55,4 @@ For the purposes of this project, I have coded the algorithms for converting dec
 
 ## Contributing
 
-I am not currently looking for any outside contributions, this is simply a personal project to get my feet in the water.
+I am not currently looking for any outside contributions.
