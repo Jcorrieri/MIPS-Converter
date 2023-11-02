@@ -21,9 +21,9 @@ public class MipsToHexPanel extends CustomJPanel {
         super();
         setName(CustomJPanel.MIPS_TO_HEX);
 
-        inputArea = new JTextArea(21, 10);
+        inputArea = new JTextArea(21, 18);
         inputArea.setEditable(true);
-        outputArea = new JTextArea(21, 10);
+        outputArea = new JTextArea(21, 18);
         outputArea.setEditable(false);
 
         layout.gridwidth = 2;
